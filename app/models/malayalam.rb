@@ -1,0 +1,2 @@
+class Malayalam < ApplicationRecord
+end
